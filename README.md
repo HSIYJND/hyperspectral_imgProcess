@@ -1,1 +1,1 @@
-# matlab_hyperspectral_imgProcess
+hyperspectral_imgProcess
